@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Запуск из исходного кода
 
 bash
-python avito\_parser.py
+python mian.py
 
 Сборка в EXE
 
@@ -192,5 +192,6 @@ MIT License - смотрите файл LICENSE для деталей.
 
 
 Разработано с ❤️ для эффективного сбора данных
+
 
 
