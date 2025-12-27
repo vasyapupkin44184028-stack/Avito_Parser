@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Запуск из исходного кода
 
 bash
-python mian.py
+python main.py
 
 Сборка в EXE
 
@@ -192,6 +192,7 @@ MIT License - смотрите файл LICENSE для деталей.
 
 
 Разработано с ❤️ для эффективного сбора данных
+
 
 
 
